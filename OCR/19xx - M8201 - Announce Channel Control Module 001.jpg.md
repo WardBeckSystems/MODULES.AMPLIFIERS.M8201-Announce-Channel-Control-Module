@@ -53,7 +53,7 @@ Jp7
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8201/PHOTOS/19xx - M8201 - Announce Channel Control Module 001.jpg",
+ "file": "Modules/AMPLIFIERS/M8201/MANUALS/19xx - M8201 - Announce Channel Control Module 001.jpg",
  "sha256": "c25f9a8cc4c9a088e26d43f42dab310700c78b86317360cc02e994299e98292e",
  "kind": "module",
  "models": [
