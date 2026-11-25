@@ -1,5 +1,5 @@
 # 19xx - M8201 - DOC - 8201 brochure a.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -66,7 +66,7 @@ WBS WARD-BECK SYSTEMS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8201/19xx - M8201 - DOC - 8201 brochure a.jpg",
+ "file": "Modules/AMPLIFIERS/M8201/MANUALS/19xx - M8201 - DOC - 8201 brochure a.jpg",
  "sha256": "1c91c3f0348ce103d694cefa972a83528503a74e03e5334dfb76fea7431bdb80",
  "kind": "doc",
  "models": [

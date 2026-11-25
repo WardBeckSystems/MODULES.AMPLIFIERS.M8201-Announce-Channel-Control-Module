@@ -1,5 +1,5 @@
 # 19xx - M8201 - Announce Channel Control Module 002.jpg
-Wiki page: [M8201](../../../PAGES/M8201.md)
+Wiki page: [M8201](../../../../PAGES/M8201.md)
 
 
 - **Year:** unknown (unknown)
@@ -56,7 +56,7 @@ Ward-Beck Systems Ltd.
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8201/19xx - M8201 - Announce Channel Control Module 002.jpg",
+ "file": "Modules/AMPLIFIERS/M8201/PHOTOS/19xx - M8201 - Announce Channel Control Module 002.jpg",
  "sha256": "60d19c49925ba3758c7304cfb2eba6340caf7f8bcc0d1f722365c753fd4a3a95",
  "kind": "module",
  "models": [

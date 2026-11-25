@@ -1,5 +1,5 @@
 # 19xx - M8201 - Announce Channel Control Module 003.jpg
-Wiki page: [M8201](../../../PAGES/M8201.md)
+Wiki page: [M8201](../../../../PAGES/M8201.md)
 
 
 - **Year:** unknown (unknown)
@@ -28,7 +28,7 @@ Re6
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8201/19xx - M8201 - Announce Channel Control Module 003.jpg",
+ "file": "Modules/AMPLIFIERS/M8201/PHOTOS/19xx - M8201 - Announce Channel Control Module 003.jpg",
  "sha256": "1a25c4cae64d6358218f52895fff1d7edeffc5bb03b59c004128343f16ad6179",
  "kind": "module",
  "models": [
