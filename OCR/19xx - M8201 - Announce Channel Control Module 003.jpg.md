@@ -1,5 +1,5 @@
 # 19xx - M8201 - Announce Channel Control Module 003.jpg
-Wiki page: [M8201](../../../../PAGES/M8201.md)
+Wiki page: [M8201](../)
 
 
 - **Year:** unknown (unknown)

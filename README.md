@@ -1,6 +1,6 @@
 # M8201 Announce Channel Control Module · Amplifiers
 
-Ward-Beck Systems M8201, 1994|27. Wiki page: [M8201 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8201.html)
+Ward-Beck Systems M8201, 1994|27. Wiki page: [M8201 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M8201-Announce-Channel-Control-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
